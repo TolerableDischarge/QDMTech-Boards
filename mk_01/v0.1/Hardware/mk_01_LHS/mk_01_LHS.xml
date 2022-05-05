@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\aidan\OneDrive\Documenten\Uni\Project\Keyboard Project\Keyboard Project\Keyboard Left Hand Side.kicad_sch</source>
+    <date>11-2-2022 18:07:25</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Keyboard Left Hand Side.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D_0">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e969d15-6cc0-4258-8b27-586608a21adb</tstamps>
+    </comp>
+    <comp ref="D_1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f3eb118-a20c-4239-b800-c9211c66847d</tstamps>
+    </comp>
+    <comp ref="D_2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6bcc3cf-50de-4a33-bc41-678825c1ecf2</tstamps>
+    </comp>
+    <comp ref="D_3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e25ce415-914a-48fe-bf09-324317917b2e</tstamps>
+    </comp>
+    <comp ref="D_4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c201e1b2-fc01-4110-bdaa-a33290468c83</tstamps>
+    </comp>
+    <comp ref="D_5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b635b16e-60bb-4b3e-9fc3-47d34eef8381</tstamps>
+    </comp>
+    <comp ref="D_6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1169a2d-8998-4b50-a48d-c520bcc1b8e1</tstamps>
+    </comp>
+    <comp ref="D_7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46918595-4a45-48e8-84c0-961b4db7f35f</tstamps>
+    </comp>
+    <comp ref="D_8">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a955fc7-39d9-4c75-9a69-676ca8c0b9b2</tstamps>
+    </comp>
+    <comp ref="D_9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66116376-6967-4178-9f23-a26cdeafc400</tstamps>
+    </comp>
+    <comp ref="D_10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fc27c35-3e1c-4f96-817c-93b5570858a6</tstamps>
+    </comp>
+    <comp ref="D_11">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1831fb37-1c5d-42c4-b898-151be6fca9dc</tstamps>
+    </comp>
+    <comp ref="D_12">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>666713b0-70f4-42df-8761-f65bc212d03b</tstamps>
+    </comp>
+    <comp ref="D_13">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66043bca-a260-4915-9fce-8a51d324c687</tstamps>
+    </comp>
+    <comp ref="D_14">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b88717bd-086f-46cd-9d3f-0396009d0996</tstamps>
+    </comp>
+    <comp ref="D_15">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a544eb0a-75db-4baf-bf54-9ca21744343b</tstamps>
+    </comp>
+    <comp ref="D_16">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e8701fc-ad24-40ea-846a-e3db538d6077</tstamps>
+    </comp>
+    <comp ref="D_17">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13c0ff76-ed71-4cd9-abb0-92c376825d5d</tstamps>
+    </comp>
+    <comp ref="D_18">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a21e717-d46d-4d9e-8b98-af4ecb02d3ec</tstamps>
+    </comp>
+    <comp ref="D_19">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1c649b1-f44d-46c7-9dea-818e75a1b87e</tstamps>
+    </comp>
+    <comp ref="D_20">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ec113ca-7d27-4b14-a180-1e5e2fd1c167</tstamps>
+    </comp>
+    <comp ref="D_21">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>676efd2f-1c48-4786-9e4b-2444f1e8f6ff</tstamps>
+    </comp>
+    <comp ref="D_22">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca5a4651-0d1d-441b-b17d-01518ef3b656</tstamps>
+    </comp>
+    <comp ref="D_23">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8447faf-e0a0-4c4a-ae53-4d4b28669151</tstamps>
+    </comp>
+    <comp ref="D_24">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9c6d5d2-0b49-49ba-a970-cd2c32f74c54</tstamps>
+    </comp>
+    <comp ref="D_25">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e8f7fc0-2ef2-4b90-9c15-8a3a601ee459</tstamps>
+    </comp>
+    <comp ref="D_26">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb16d05e-318b-4e51-867b-70d791d75bea</tstamps>
+    </comp>
+    <comp ref="D_27">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d697cf0-e02e-4ed1-a048-a704dab0ee43</tstamps>
+    </comp>
+    <comp ref="D_28">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2846428d-39de-4eae-8ce2-64955d56c493</tstamps>
+    </comp>
+    <comp ref="D_29">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70fb572d-d5ec-41e7-9482-63d4578b4f47</tstamps>
+    </comp>
+    <comp ref="D_30">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a53767ed-bb28-4f90-abe0-e0ea734812a4</tstamps>
+    </comp>
+    <comp ref="D_31">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b7c1048-12b6-46b2-b762-fa3ad30472dd</tstamps>
+    </comp>
+    <comp ref="D_32">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4ee1d54-5494-4c1f-bd9b-8907da1a57b5</tstamps>
+    </comp>
+    <comp ref="D_33">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f78e02cd-9600-4173-be8d-67e530b5d19f</tstamps>
+    </comp>
+    <comp ref="K_0">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87c78429-be2b-40ed-8d3b-56cb9666a56f</tstamps>
+    </comp>
+    <comp ref="K_1">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d6718e7-f18d-444d-9792-ddf1a113460c</tstamps>
+    </comp>
+    <comp ref="K_2">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f3deced-880d-4075-a81b-95c62da5b94d</tstamps>
+    </comp>
+    <comp ref="K_3">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34871042-9d5c-4e29-abdd-a168368c3c22</tstamps>
+    </comp>
+    <comp ref="K_4">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38f2d955-ea7a-4a21-aba6-02ae23f1bd4a</tstamps>
+    </comp>
+    <comp ref="K_5">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03d88a85-11fd-47aa-954c-c318bb15294a</tstamps>
+    </comp>
+    <comp ref="K_6">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa02e544-13f5-4cf8-a5f4-3e6cda006090</tstamps>
+    </comp>
+    <comp ref="K_7">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67f6e996-3c99-493c-8f6f-e739e2ed5d7a</tstamps>
+    </comp>
+    <comp ref="K_8">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da469d11-a8a4-414b-9449-d151eeaf4853</tstamps>
+    </comp>
+    <comp ref="K_9">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77ed3941-d133-4aef-a9af-5a39322d14eb</tstamps>
+    </comp>
+    <comp ref="K_10">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac264c30-3e9a-4be2-b97a-9949b68bd497</tstamps>
+    </comp>
+    <comp ref="K_11">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>704d6d51-bb34-4cbf-83d8-841e208048d8</tstamps>
+    </comp>
+    <comp ref="K_12">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c8eb964-bdf4-44de-90e9-e2ab82dd5313</tstamps>
+    </comp>
+    <comp ref="K_13">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4a1d3c4-b315-4bec-9220-d12a9eab51e0</tstamps>
+    </comp>
+    <comp ref="K_14">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>003c2200-0632-4808-a662-8ddd5d30c768</tstamps>
+    </comp>
+    <comp ref="K_15">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24f7628d-681d-4f0e-8409-40a129e929d9</tstamps>
+    </comp>
+    <comp ref="K_16">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8c50f1b-c316-4110-9cce-5c24c65a1eaa</tstamps>
+    </comp>
+    <comp ref="K_17">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ca3e20d-bcc7-4c5e-9deb-562dfed9fecb</tstamps>
+    </comp>
+    <comp ref="K_18">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3d7e298-1d39-4294-a3ab-c84cc0dc5e5a</tstamps>
+    </comp>
+    <comp ref="K_19">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d928d56-093a-4ca8-aed1-414b7e703b45</tstamps>
+    </comp>
+    <comp ref="K_20">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5114c7bf-b955-49f3-a0a8-4b954c81bde0</tstamps>
+    </comp>
+    <comp ref="K_21">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ca4be1c-537e-4a4a-b344-d0c8ffde8546</tstamps>
+    </comp>
+    <comp ref="K_22">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84e5506c-143e-495f-9aa4-d3a71622f213</tstamps>
+    </comp>
+    <comp ref="K_23">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a52f112-cb97-43db-aaeb-20afe27664d7</tstamps>
+    </comp>
+    <comp ref="K_24">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e40e8cef-4fb0-4fc3-be09-3875b2cc8469</tstamps>
+    </comp>
+    <comp ref="K_25">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd4442e-30b3-428b-9306-61418a63d311</tstamps>
+    </comp>
+    <comp ref="K_26">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd9595a1-04f3-4fda-8f1b-e65ad874edd3</tstamps>
+    </comp>
+    <comp ref="K_27">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4f86a46-3bc8-4daa-9125-a63f297eb114</tstamps>
+    </comp>
+    <comp ref="K_28">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>926001fd-2747-4639-8c0f-4fc46ff7218d</tstamps>
+    </comp>
+    <comp ref="K_29">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37f31dec-63fc-4634-a141-5dc5d2b60fe4</tstamps>
+    </comp>
+    <comp ref="K_30">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc2801a1-d539-4721-b31f-fe196b9f13df</tstamps>
+    </comp>
+    <comp ref="K_31">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>109caac1-5036-4f23-9a66-f569d871501b</tstamps>
+    </comp>
+    <comp ref="K_32">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1578996-aa23-482e-9b59-91c54424deb4</tstamps>
+    </comp>
+    <comp ref="K_33">
+      <value>KEYSW</value>
+      <footprint>MX_Alps_Hybrid:MX-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Keyboard Left Hand Side.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da25bf79-0abb-4fac-a221-ca5c574dfc29</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>C:/Users/aidan/OneDrive/Documenten/Uni/Project/Keyboard Project/Left Hand Side Script Output/Schematic_Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D_0-Pad2)">
+      <node ref="D_0" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_0" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(D_1-Pad2)">
+      <node ref="D_1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_1" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D_2-Pad2)">
+      <node ref="D_2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_2" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D_3-Pad2)">
+      <node ref="D_3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_3" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D_4-Pad2)">
+      <node ref="D_4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_4" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D_5-Pad2)">
+      <node ref="D_5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_5" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D_6-Pad2)">
+      <node ref="D_6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_6" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D_7-Pad2)">
+      <node ref="D_7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_7" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D_8-Pad2)">
+      <node ref="D_8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_8" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D_9-Pad2)">
+      <node ref="D_9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_9" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D_10-Pad2)">
+      <node ref="D_10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_10" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D_11-Pad2)">
+      <node ref="D_11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_11" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D_12-Pad2)">
+      <node ref="D_12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_12" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D_13-Pad2)">
+      <node ref="D_13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_13" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D_14-Pad2)">
+      <node ref="D_14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_14" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D_15-Pad2)">
+      <node ref="D_15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_15" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D_16-Pad2)">
+      <node ref="D_16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_16" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D_17-Pad2)">
+      <node ref="D_17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_17" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D_18-Pad2)">
+      <node ref="D_18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_18" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D_19-Pad2)">
+      <node ref="D_19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_19" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D_20-Pad2)">
+      <node ref="D_20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_20" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D_21-Pad2)">
+      <node ref="D_21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_21" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D_22-Pad2)">
+      <node ref="D_22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_22" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D_23-Pad2)">
+      <node ref="D_23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_23" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D_24-Pad2)">
+      <node ref="D_24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_24" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D_25-Pad2)">
+      <node ref="D_25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_25" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D_26-Pad2)">
+      <node ref="D_26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_26" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D_27-Pad2)">
+      <node ref="D_27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_27" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D_28-Pad2)">
+      <node ref="D_28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_28" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D_29-Pad2)">
+      <node ref="D_29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_29" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D_30-Pad2)">
+      <node ref="D_30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_30" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D_31-Pad2)">
+      <node ref="D_31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_31" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D_33-Pad2)">
+      <node ref="D_33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_33" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(K_32-Pad2)">
+      <node ref="D_32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K_32" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="35" name="col0">
+      <node ref="K_13" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_20" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_27" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_6" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="36" name="col1">
+      <node ref="K_0" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_14" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_21" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_28" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_7" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="37" name="col2">
+      <node ref="K_1" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_15" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_22" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_29" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_8" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="38" name="col3">
+      <node ref="K_16" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_2" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_23" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_30" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_9" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="39" name="col4">
+      <node ref="K_10" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_17" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_24" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_3" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_31" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="40" name="col5">
+      <node ref="K_11" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_18" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_25" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_32" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_4" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="41" name="col6">
+      <node ref="K_12" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_19" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_26" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_33" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="K_5" pin="1" pinfunction="COL" pintype="passive"/>
+    </net>
+    <net code="42" name="row0">
+      <node ref="D_0" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_5" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="43" name="row1">
+      <node ref="D_10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="44" name="row2">
+      <node ref="D_13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_19" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="45" name="row3">
+      <node ref="D_20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_26" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="46" name="row4">
+      <node ref="D_27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D_33" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+  </nets>
+</export>
