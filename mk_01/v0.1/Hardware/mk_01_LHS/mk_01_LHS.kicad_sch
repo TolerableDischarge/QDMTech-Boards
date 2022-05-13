@@ -4,6 +4,13 @@
 
   (paper "A3")
 
+  (title_block
+    (title "mk_01_LHS")
+    (date "2022-05-12")
+    (rev "v0.1")
+    (company "Bangor University")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x04" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "OLED" (id 0) (at -4.318 8.5285 0)

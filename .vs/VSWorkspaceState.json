@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\mk_01",
-    "\\mk_01\\Firmware",
-    "\\mk_01\\Firmware\\mk_01_zmk"
+    "\\mk_01"
   ],
+  "SelectedNode": "\\mk_01\\v0.1",
   "PreviewInSolutionExplorer": false
 }
