@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLV61225DCKT
+D Single cell 3.3V output voltage high efficient step-up converter in 6 pin SC-70 package
+K
+F http://uk.rs-online.com/web/p/products/8253669P
+$ENDCMP
+#
+$CMP TPS61202DSCR
+D Switching Voltage Regulators 0.3V Inp Vltg Boost Cnvrtr
+K
+F 
+$ENDCMP
+#
+$CMP DIO6605BFN8
+D Switching Voltage Regulators 5V Output High Efficiency 1.2MHz Syn Step-up converter
+K
+F 
+$ENDCMP
+#
+$CMP B82462G4472M
+D EPCOS - B82462G4472M - Power Inductor (SMD), 4.7 H, 2 A, Shielded, 1.8 A, B82462G4 Series, 6.3mm x 6.3mm x 3mm
+K
+F https://www.tdk-electronics.tdk.com/inf/30/db/ind_2008/b82462g4.pdf
+$ENDCMP
+#
+$CMP CLF6045NIT-4R7N-D
+D SMD / SMT Inductors (Coils), L=4.7?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_clf6045ni-d_en.pdf
+$ENDCMP
+#
+#End Doc Library
