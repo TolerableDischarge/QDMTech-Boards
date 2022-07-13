@@ -1,4 +1,4 @@
-20402866049162525
+20392967002292100
 Alps_Only
 ALPS-1.5U
 
@@ -56916,48 +56916,6 @@ Yellow 5381 Series LED
 0
 2
 2
-Library_Loader
-B82462G4472M
-B82462G4472M-4
-Inductor
-0
-2
-2
-Library_Loader
-CLF6045__
-CLF6045_*
-Inductor
-0
-2
-2
-Library_Loader
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-Library_Loader
-SON50P300X200X80-9N-D
-DFN2*3-8
-Integrated Circuit
-0
-9
-9
-Library_Loader
-SOT65P210X110-6N
-DCK (R-PDSO-G6)
-Integrated Circuit
-0
-6
-6
-Library_Loader
-TPS61202DSCR
-TPS61202DSCR-1
-Integrated Circuit
-0
-15
-15
 Logos
 Linktree QR
 
